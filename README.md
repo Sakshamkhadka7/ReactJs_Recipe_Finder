@@ -1,16 +1,13 @@
-# React + Vite
+## Recipe_Finder Web_App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React JS based app where user search recipe where user search any recipe in the search box and it will fetch only that recipe from dummy API json with 
+the help of query in URL and display that recipe image ,ingredients and calories
 
-Currently, two official plugins are available:
+**This simple project** help me to strengthen my react js skill and how frontend developer work and handle API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Components that I used in this project**
 
-## React Compiler
+	:magic_wand:    Added css to style the App 
+ :jack_o_lantern: Dummy API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
