@@ -7,7 +7,7 @@ the help of query in URL and display that recipe image ,ingredients and calories
 
 **Components that I used in this project**
 
-	:magic_wand: Added css to style the App 
+:magic_wand: Added css to style the App 
  :jack_o_lantern: Dummy API
 
 
