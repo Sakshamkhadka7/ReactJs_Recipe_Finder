@@ -12,6 +12,8 @@ the help of query in URL and display that recipe image ,ingredients and calories
  :jack_o_lantern: Dummy API
 
  ![recipe1](https://github.com/Sakshamkhadka7/ReactJs_Recipe_Finder/blob/aa88a27b2f2517deb5feb04e462fa51e880cfd38/recipe1.png)
+  ![recipe2](https://github.com/Sakshamkhadka7/ReactJs_Recipe_Finder/blob/e59bc91f513211cc051378918e735e163e0823cd/recipe2.png)
+  ![recipe3](https://github.com/Sakshamkhadka7/ReactJs_Recipe_Finder/blob/e59bc91f513211cc051378918e735e163e0823cd/recipe3.png)
 
  
 
